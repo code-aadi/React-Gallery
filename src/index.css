@@ -200,6 +200,9 @@ width: 17px;
   width: 20px;
   height: 20px;
 }
+.no-fav{
+  text-align: center;
+}
 
 @media  (min-width : 800px){
  .favourite:hover {
