@@ -24,7 +24,7 @@ A responsive image gallery app built using React. It allows users to browse imag
 
 ## 🌐 Live Demo
 
-(Add deployed link here – Vercel/Netlify)
+[click here to see gallery app](https://react-gallery-aadi.vercel.app/)
 
 ## 📂 Installation
 
