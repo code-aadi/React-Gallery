@@ -29,7 +29,7 @@ A responsive image gallery app built using React. It allows users to browse imag
 ## 📂 Installation
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/code-aadi/React-Gallery.git>
 cd project-folder
 npm install
 npm run dev
